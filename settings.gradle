@@ -1,0 +1,6 @@
+rootProject.name = 'tradesystem'
+
+include 'product'
+include 'webapp'
+include 'order'
+include 'auth'
